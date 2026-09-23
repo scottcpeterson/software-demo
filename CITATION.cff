@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Biodiversity Analysis Toolkit
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Scott
+    family-names: Peterson
+    email: sp277@buffalo.edu
+    affiliation: University at Buffalo
+    orcid: 'https://orcid.org/0000-0002-1920-616X'
+repository-code: 'https://github.com/scottcpeterson/software-demo'
+abstract: Analysis tools for biodiversity research data.
+license: BSD-3-Clause
